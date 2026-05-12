@@ -13,34 +13,32 @@
 
 ## HAVE ELECTRONIC EQUIPMENT
 
-* **NOTEBOOK**
-  * **OS**
-    * Windows 11 Pro [Active]
-  * **CPU**
-    * AMD Razen 7 6800H [8C, 16T] [Min 2.2GHz, Max 2.4GHz]
-  * **RAM**
-    * Micron DDR5 RAM [32GB, 5600GHz]
-  * **Graphic**
-    * RTX 3050TI Graphic
-  * **Storage**
-    * Intel M.2 [512GB]
-  * **Mother Board**
-    * ASUS FA507RE
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-* **DESKTOP**
-  * **OS**
-    * Windows 11 Pro [Active]
-  * **CPU**
-    * AMD Razen 7 9700x [8C, 16T] [Min 3.8GHz, Max 5.5GHz]
-  * **RAM**
-    * Micron DDR5 Pro RAM [32GB, 5600GHz]
-  * **Graphic**
-    * ASUS PRIME Radeon RX 9070XT OC D6 [16GB]
-  * **Storage**
-    * SK Hynix M.2 [1TB]
-  * **Mother Board**
-    * ASUS TUF GAMING X870-PRO WIFI7 W NEO
+### NOTEBOOK
+- **OS**: Windows 11 Pro [Active]
+- **CPU**: AMD Razen 7 6800H [8C, 16T] [Min 2.2GHz, Max 2.4GHz]
+- **RAM**: Micron DDR5 RAM [32GB, 5600GHz]
+- **Graphic**: RTX 3050TI Graphic
+- **Storage**: Intel M.2 [512GB]
+- **Mother Board**: ASUS FA507RE
 
+  </td>
+    <td valign="top" width="50%">
+
+### DESKTOP
+- **OS**: Windows 11 Pro [Active]
+- **CPU**: AMD Razen 7 9700x [8C, 16T] [Min 3.8GHz, Max 5.5GHz]
+- **RAM**: Micron DDR5 Pro RAM [32GB, 5600GHz]
+- **Graphic**: ASUS PRIME Radeon RX 9070XT OC D6 [16GB]
+- **Storage**: SK Hynix M.2 [1TB]
+- **Mother Board**: ASUS TUF GAMING X870-PRO WIFI7 W NEO
+
+  </td>
+  </tr>
+</table>
 
 ### 💻​ OS
 
@@ -61,7 +59,6 @@
 ### CONTECT
 
 ![My Skills](https://skillicons.dev/icons?i=discord)
-
 
 ## PROJECT TABLE
 
