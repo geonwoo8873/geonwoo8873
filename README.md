@@ -20,7 +20,7 @@
       <h3>NOTEBOOK</h3>
       <ul align="left">
         <li><b>OS</b>: Windows 11 Pro [Active]</li>
-        <li><b>CPU</b>: AMD Razen 7 6800H [8C, 16T] [Min 2.2GHz, Max 2.4GHz]</li>
+        <li><b>CPU</b>: AMD Razen 7 6800H</li>
         <li><b>RAM</b>: Micron DDR5 RAM [32GB, 5600GHz]</li>
         <li><b>Graphic</b>: RTX 3050TI Graphic</li>
         <li><b>Storage</b>: Intel M.2 [512GB]</li>
@@ -32,9 +32,9 @@
       <h3>DESKTOP</h3>
       <ul align="left">
         <li><b>OS</b>: Windows 11 Pro [Active]</li>
-        <li><b>CPU</b>: AMD Razen 7 9700x [8C, 16T] [Min 3.8GHz, Max 5.5GHz]</li>
+        <li><b>CPU</b>: AMD Razen 7 9700X</li>
         <li><b>RAM</b>: Micron DDR5 Pro RAM [32GB, 5600GHz]</li>
-        <li><b>Graphic</b>: ASUS PRIME Radeon RX 9070XT OC D6 [16GB]</li>
+        <li><b>Graphic</b>: ASUS PRIME Radeon RX 9070XT OC D6 16GB</li>
         <li><b>Storage</b>: SK Hynix M.2 [1TB]</li>
         <li><b>Mother Board</b>: ASUS TUF GAMING X870-PRO WIFI7 W NEO</li>
       </ul>
