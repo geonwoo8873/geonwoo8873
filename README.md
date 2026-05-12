@@ -12,6 +12,8 @@
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/79bcf24f-a35a-4a2b-9a27-b1ac55f48779" />
 
 ## HAVE ELECTRONIC EQUIPMENT
+<img width="228" height="228" alt="52159258-80d4-4b52-9b41-3f416c00ac5c" src="https://github.com/user-attachments/assets/1de3bccd-5bf5-416a-92f8-4afedfa2758d" />
+<img width="228" height="228" alt="4c264a76-d656-4bd6-bc11-c2ee041ca040" src="https://github.com/user-attachments/assets/0a998527-f04f-4c0d-b33e-b5476104b3a0" />
 
 <table>
   <tr>
