@@ -12,33 +12,33 @@
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/79bcf24f-a35a-4a2b-9a27-b1ac55f48779" />
 
 ## HAVE ELECTRONIC EQUIPMENT
-<img width="228" height="228" alt="52159258-80d4-4b52-9b41-3f416c00ac5c" src="https://github.com/user-attachments/assets/1de3bccd-5bf5-416a-92f8-4afedfa2758d" />
-<img width="228" height="228" alt="4c264a76-d656-4bd6-bc11-c2ee041ca040" src="https://github.com/user-attachments/assets/0a998527-f04f-4c0d-b33e-b5476104b3a0" />
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-
-### NOTEBOOK
-- **OS**: Windows 11 Pro [Active]
-- **CPU**: AMD Razen 7 6800H [8C, 16T] [Min 2.2GHz, Max 2.4GHz]
-- **RAM**: Micron DDR5 RAM [32GB, 5600GHz]
-- **Graphic**: RTX 3050TI Graphic
-- **Storage**: Intel M.2 [512GB]
-- **Mother Board**: ASUS FA507RE
-
-  </td>
-    <td valign="top" width="50%">
-
-### DESKTOP
-- **OS**: Windows 11 Pro [Active]
-- **CPU**: AMD Razen 7 9700x [8C, 16T] [Min 3.8GHz, Max 5.5GHz]
-- **RAM**: Micron DDR5 Pro RAM [32GB, 5600GHz]
-- **Graphic**: ASUS PRIME Radeon RX 9070XT OC D6 [16GB]
-- **Storage**: SK Hynix M.2 [1TB]
-- **Mother Board**: ASUS TUF GAMING X870-PRO WIFI7 W NEO
-
-  </td>
+    <td valign="top" width="50%" align="center">
+      <img width="228" height="228" alt="52159258-80d4-4b52-9b41-3f416c00ac5c" src="https://github.com/user-attachments/assets/1de3bccd-5bf5-416a-92f8-4afedfa2758d" />
+      <h3>NOTEBOOK</h3>
+      <ul align="left">
+        <li><b>OS</b>: Windows 11 Pro [Active]</li>
+        <li><b>CPU</b>: AMD Razen 7 6800H [8C, 16T] [Min 2.2GHz, Max 2.4GHz]</li>
+        <li><b>RAM</b>: Micron DDR5 RAM [32GB, 5600GHz]</li>
+        <li><b>Graphic</b>: RTX 3050TI Graphic</li>
+        <li><b>Storage</b>: Intel M.2 [512GB]</li>
+        <li><b>Mother Board</b>: ASUS FA507RE</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%" align="center">
+      <img width="228" height="228" alt="4c264a76-d656-4bd6-bc11-c2ee041ca040" src="https://github.com/user-attachments/assets/0a998527-f04f-4c0d-b33e-b5476104b3a0" />
+      <h3>DESKTOP</h3>
+      <ul align="left">
+        <li><b>OS</b>: Windows 11 Pro [Active]</li>
+        <li><b>CPU</b>: AMD Razen 7 9700x [8C, 16T] [Min 3.8GHz, Max 5.5GHz]</li>
+        <li><b>RAM</b>: Micron DDR5 Pro RAM [32GB, 5600GHz]</li>
+        <li><b>Graphic</b>: ASUS PRIME Radeon RX 9070XT OC D6 [16GB]</li>
+        <li><b>Storage</b>: SK Hynix M.2 [1TB]</li>
+        <li><b>Mother Board</b>: ASUS TUF GAMING X870-PRO WIFI7 W NEO</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
