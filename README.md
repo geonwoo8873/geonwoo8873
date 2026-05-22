@@ -62,9 +62,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=rust,dotnet,go)
 
-### CONTECT
-
-![My Skills](https://skillicons.dev/icons?i=discord)
 
 ## PROJECT TABLE
 
