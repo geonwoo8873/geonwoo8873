@@ -72,7 +72,7 @@
 | Bank Cloud        |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash) |  DevOps  | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP)           |
 | AWS Bedrock Agent |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=python,rust)           |  DevOps  | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
 
-> [!IMPORTANT]
+> [!WARNING]
 > **개인 개발 프로젝트들은 현재 새로운 실험 및 적용 단계들로 향후 개발되는 기능들과 환경 구성들이 변경될 수 있습니다.**  
 > **Individual development projects are currently in new experimental and application stages, and the functions and environment configurations developed in the future may change.**
 
