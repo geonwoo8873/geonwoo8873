@@ -15,37 +15,6 @@
 > **현재 GitHub Foundation 자격 증명 준비중이며, 자격 증명에 대한 내용들은 [TourCredentials](https://github.com/geonwoo8873/TourCredentials)에 업로드 되어 있습니다.**  
 > **Currently preparing GitHub Foundation credentials, and information about the credentials is uploaded at [TourCredentials](https://github.com/geonwoo8873/TourCredentials).**
 
-## HAVE ELECTRONIC EQUIPMENT
-
-<table>
-  <tr>
-    <td valign="top" width="50%" align="center">
-      <img width="228" height="228" alt="52159258-80d4-4b52-9b41-3f416c00ac5c" src="https://github.com/user-attachments/assets/1de3bccd-5bf5-416a-92f8-4afedfa2758d" />
-      <h3>NOTEBOOK</h3>
-      <ul align="left">
-        <li><b>OS</b>: Windows 11 Pro [Active]</li>
-        <li><b>CPU</b>: AMD Razen 7 6800H</li>
-        <li><b>RAM</b>: Micron DDR5 RAM [32GB, 5600GHz]</li>
-        <li><b>Graphic</b>: RTX 3050TI Graphic</li>
-        <li><b>Storage</b>: Intel M.2 [512GB]</li>
-        <li><b>Mother Board</b>: ASUS FA507RE</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%" align="center">
-      <img width="228" height="228" alt="4c264a76-d656-4bd6-bc11-c2ee041ca040" src="https://github.com/user-attachments/assets/0a998527-f04f-4c0d-b33e-b5476104b3a0" />
-      <h3>DESKTOP</h3>
-      <ul align="left">
-        <li><b>OS</b>: Windows 11 Pro [Active]</li>
-        <li><b>CPU</b>: AMD Razen 7 9700X</li>
-        <li><b>RAM</b>: Micron DDR5 Pro RAM [32GB, 5600GHz]</li>
-        <li><b>Graphic</b>: ASUS PRIME Radeon RX 9070XT OC D6 16GB</li>
-        <li><b>Storage</b>: SK Hynix M.2 [1TB]</li>
-        <li><b>Mother Board</b>: ASUS TUF GAMING X870-PRO WIFI7 W NEO</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ### 💻​ OS
 
 ![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)
