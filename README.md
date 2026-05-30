@@ -12,8 +12,6 @@
 | -- | -- |
 | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1904f4b8-27cd-4de0-a6e1-484d92e44698" /> | 30/05/2026 |
 
-* GitHub Foundation [30/05/2026]
-
 > [!IMPORTANT]
 > **자격 증명에 대한 내용들은 [TourCredentials](https://github.com/geonwoo8873/TourCredentials)에 업로드 되어 있습니다.**  
 > **Currently preparing GitHub Foundation credentials, and information about the credentials is uploaded at [TourCredentials](https://github.com/geonwoo8873/TourCredentials).**
