@@ -4,10 +4,10 @@
 > **Hi! I'm geonwoo8873, a developer with a strong interest in DevOps.**
 
 현재 GitHub의 프로젝트 및 리포지토리 관리 능력을 향상을 목표로 GH-900, GH-100을 도전하고 있고, 클라우드 인프라 기술을 함께 지속적으로 익히고 있습니다.
-GitHub Actions을 활용한 CI/CD 파이프라인 구축에 관심이 있으며, Go·.NET을 주력 언어로 사용합니다.
+GitHub Actions을 활용한 CI/CD 파이프라인 구축에 관심이 있으며, Go,C#을 주력 언어로 사용합니다.
 
 I am currently challenging GH-900 and GH-100 with the goal of improving my project and repository management skills on GitHub, and I am continuously learning cloud infrastructure technologies together.   
-I am interested in building CI/CD pipelines using GitHub Actions and mainly use Rust, Go, and .NET as my primary languages.
+I am interested in building CI/CD pipelines using GitHub Actions and mainly use Go, .NET as my primary languages.
 
 ---
 
@@ -43,15 +43,14 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 
 ### 📚​ LANGUAGE
 
-![My Skills](https://skillicons.dev/icons?i=rust,dotnet)
+![My Skills](https://skillicons.dev/icons?i=go,dotnet)
 
 
 ## PROJECT TABLE
 
 | NAME              | STATUS  |     TYPE     | LANGUAGE                                                           | POSITION | REPOSITORY                                                        |
 | ----------------- | :-----: | :----------: | ------------------------------------------------------------------ | :------: | ----------------------------------------------------------------- |
-| TourLearn         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=dotnet,github,rust) |    -     | [TourLearn](https://github.com/geonwoo8873/TourLearn)              |
-| DotBot            | Running |   Project    | ![My Skills](https://skillicons.dev/icons?i=dotnet,rust)        |    -     | [DotBot](https://github.com/geonwoo8873/DotBot)                    |
+| TourLearn         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=dotnet,github,go) |    -     | [TourLearn](https://github.com/geonwoo8873/TourLearn)              |
 | Bank Cloud        |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash) |  DevOps  | [Bank](https://github.com/geonwoo8873/LIKELION-BOOTCAMP)           |
 | AWS Bedrock Agent |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=python,rust)           |  DevOps  | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
 
