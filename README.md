@@ -10,7 +10,7 @@
 
 | Credential Name | Get Date |
 | -- | -- |
-| <img width="348" height="349" alt="image" src="https://github.com/user-attachments/assets/1904f4b8-27cd-4de0-a6e1-484d92e44698" /> | 30/05/2026 |
+| <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1904f4b8-27cd-4de0-a6e1-484d92e44698" /> | 30/05/2026 |
 
 * GitHub Foundation [30/05/2026]
 
