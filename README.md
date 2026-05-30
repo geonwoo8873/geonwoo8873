@@ -3,11 +3,11 @@
 > **안녕하세요! 저는 DevOps에 관심이 많은 개발자 geonwoo8873입니다.**  
 > **Hi! I'm geonwoo8873, a developer with a strong interest in DevOps.**
 
-현재 쿠팡 풀필먼트 서비스에서 근무 했으며, Docker·Kubernetes·AWS 등 클라우드 인프라 기술을 꾸준히 익히고 있습니다.  
+현재 GitHub의 프로젝트 및 리포지토리 관리 능력을 향상을 목표로 GH-900, GH-100을 도전하고 있고, 클라우드 인프라 기술을 함께 지속적으로 익히고 있습니다.
 GitHub Actions을 활용한 CI/CD 파이프라인 구축에 관심이 있으며, Rust·Go·.NET을 주력 언어로 사용합니다.
 
-I am currently working at Coupang Fulfillment Service and have been consistently learning cloud infrastructure technologies such as Docker, Kubernetes, and AWS.   
-I am interested in building CI/CD pipelines using GitHub Actions and primarily use Rust, Go, and .NET as my main programming languages.
+I am currently challenging GH-900 and GH-100 with the goal of improving my project and repository management skills on GitHub, and I am continuously learning cloud infrastructure technologies together.   
+I am interested in building CI/CD pipelines using GitHub Actions and mainly use Rust, Go, and .NET as my primary languages.
 
 ---
 
