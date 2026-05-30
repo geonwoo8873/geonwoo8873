@@ -50,7 +50,7 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 
 | NAME              | STATUS  |     TYPE     | LANGUAGE                                                           | POSITION | REPOSITORY                                                        |
 | ----------------- | :-----: | :----------: | ------------------------------------------------------------------ | :------: | ----------------------------------------------------------------- |
-| TourLearn         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=dotnet,github,go,rust) |    -     | [TourLearn](https://github.com/geonwoo8873/TourLearn)              |
+| TourLearn         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=dotnet,github,rust) |    -     | [TourLearn](https://github.com/geonwoo8873/TourLearn)              |
 | DotBot            | Running |   Project    | ![My Skills](https://skillicons.dev/icons?i=dotnet,rust)        |    -     | [DotBot](https://github.com/geonwoo8873/DotBot)                    |
 | Bank Cloud        |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash) |  DevOps  | [Bank](https://github.com/geonwoo8873/LIKELION-BOOTCAMP)           |
 | AWS Bedrock Agent |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=python,rust)           |  DevOps  | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
