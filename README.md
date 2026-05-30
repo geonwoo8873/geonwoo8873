@@ -8,11 +8,13 @@
 
 ## CREDENTIALS
 
-* Getting
+* Get
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/79bcf24f-a35a-4a2b-9a27-b1ac55f48779" />
 
+* GitHub Foundation [30/05/2026]
+
 > [!IMPORTANT]
-> **현재 GitHub Foundation 자격 증명 준비중이며, 자격 증명에 대한 내용들은 [TourCredentials](https://github.com/geonwoo8873/TourCredentials)에 업로드 되어 있습니다.**  
+> **자격 증명에 대한 내용들은 [TourCredentials](https://github.com/geonwoo8873/TourCredentials)에 업로드 되어 있습니다.**  
 > **Currently preparing GitHub Foundation credentials, and information about the credentials is uploaded at [TourCredentials](https://github.com/geonwoo8873/TourCredentials).**
 
 ### 💻​ OS
