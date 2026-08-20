@@ -13,10 +13,10 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 
 ## CAREER
 
-* **Coupang Fulfillment Services** (`2025. 04. 22 ~ 2026. 04. 21`)
+* **Coupang Fulfillment Services** (`2025-04-22 ~ 2026-04-21`)
    * In Bound / Quality Control [QC]
  
-*  **Shining Lion** (`2025. 02 ~ 2025. 02`)
+*  **Shining Lion** (`2025-02-01 ~ 2025-02-28`)
    * Intern / DevOps
 
 ## CREDENTIALS
