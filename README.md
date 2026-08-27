@@ -1,3 +1,5 @@
+<img width="112" height="112" alt="CoffeeBean_V1_0_등장_2026-08-27-20-18-41" src="https://github.com/user-attachments/assets/b5f7abe6-3cd8-474a-a89a-3ce758c4c8f6" />
+
 ## 👋 ABOUT ME
 
 > **안녕하세요! 저는 DevOps에 관심이 많은 개발자 geonwoo8873입니다.**  
