@@ -52,9 +52,10 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 
 | NAME              | STATUS  |     TYPE     | LANGUAGE                                                           | POSITION | REPOSITORY                                                        |
 | ----------------- | :-----: | :----------: | ------------------------------------------------------------------ | :------: | ----------------------------------------------------------------- |
-| TourLearn         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=dotnet,github,go) |    -     | [TourLearn](https://github.com/geonwoo8873/TourLearn)              |
-| Bank Cloud        |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash) |  DevOps  | [Bank](https://github.com/geonwoo8873/LIKELION-BOOTCAMP)           |
-| AWS Bedrock Agent |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=python,rust)           |  DevOps  | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
+| TourCredentials         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=github) |    -     | [TourCredentials](https://github.com/geonwoo8873/TourCredentials)             |
+| Bank System Cloud | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,k8s,github) | Automation | [likelion-bootcamp-project](https://github.com/likelion-bootcamp-project) |
+| Rust Discord Bot | Exit | Parsnal Project | ![My Skills](https://skillicons.dev/icons?i=rust,bash,docker,github) | - | [Rust-DiscordBot](https://github.com/geonwoo8873/Rust-DiscordBot) |
+| Smart Waste Container | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=c) | Dev[`Leader`] | [Smart_Waste_Container](https://github.com/geonwoo8873/Smart_Waste_Container) |
 
 > [!WARNING]
 > **개인 개발 프로젝트들은 현재 새로운 실험 및 적용 단계들로 향후 개발되는 기능들과 환경 구성들이 변경될 수 있습니다.**  
