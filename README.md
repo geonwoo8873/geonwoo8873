@@ -53,8 +53,8 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 | NAME              | STATUS  |     TYPE     | LANGUAGE                                                           | POSITION | REPOSITORY                                                        |
 | ----------------- | :-----: | :----------: | ------------------------------------------------------------------ | :------: | ----------------------------------------------------------------- |
 | TourCredentials         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=github) |    -     | [TourCredentials](https://github.com/geonwoo8873/TourCredentials)             |
-| Bank System Cloud | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,k8s,github) | Automation | [likelion-bootcamp-project](https://github.com/likelion-bootcamp-project) |
-| Rust Discord Bot | Exit | Parsnal Project | ![My Skills](https://skillicons.dev/icons?i=rust,bash,docker,github) | - | [Rust-DiscordBot](https://github.com/geonwoo8873/Rust-DiscordBot) |
+| Bank System Cloud | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,k8s,github) | DevOps[`CI/CD`] | [likelion-bootcamp-project](https://github.com/likelion-bootcamp-project) |
+| Rust Discord Bot | Exit | Parsnal Project | ![My Skills](https://skillicons.dev/icons?i=rust,bash,docker,github) | DevOps[`CI/CD`,`Infra`] | [Rust-DiscordBot](https://github.com/geonwoo8873/Rust-DiscordBot) |
 | Smart Waste Container | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=c) | Dev[`Leader`] | [Smart_Waste_Container](https://github.com/geonwoo8873/Smart_Waste_Container) |
 
 > [!WARNING]
