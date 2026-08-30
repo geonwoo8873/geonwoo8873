@@ -50,7 +50,7 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 
 ## PROJECT TABLE
 
-| NAME              | STATUS  |     TYPE     | LANGUAGE                                                           | POSITION | REPOSITORY                                                        |
+| NAME              | STATUS  |     TYPE     | SKILLS                                                           | POSITION | REPOSITORY                                                        |
 | ----------------- | :-----: | :----------: | ------------------------------------------------------------------ | :------: | ----------------------------------------------------------------- |
 | TourCredentials         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=github) |    -     | [TourCredentials](https://github.com/geonwoo8873/TourCredentials)             |
 | Bank System Cloud | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,k8s,github) | DevOps[`CI/CD`] | [likelion-bootcamp-project](https://github.com/likelion-bootcamp-project) |
