@@ -30,7 +30,8 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 | <img width="80" height="80" alt="GitHub Foundations" src="https://github.com/user-attachments/assets/1904f4b8-27cd-4de0-a6e1-484d92e44698" /> | ✅ acquisition | 30/05/2026 | [GitHub Credential](https://github.com/geonwoo8873/tour-learn-collection) |
 
 > [!NOTE]
-> **Note:** 자격 증명 학습 내용은 [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)에서 확인할 수 있습니다.
+> * **자격 증명 학습 내용은 [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)에서 확인할 수 있습니다.**
+> * **Credential learning content can be found at [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection).**
 
 ### 💻​ OS
 
