@@ -27,7 +27,7 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 |--------|------|-----------|------|
 | <img width="80" height="80" alt="AWS Solutions Architect Associate" src="https://github.com/user-attachments/assets/3e432607-df44-4cf4-9260-88d55dfc8c05" /> | 📚 준비 중 | - | [AWS 학습자료](https://github.com/geonwoo8873/tour-learn-collection) |
 | <img width="80" height="80" alt="GitHub Admin" src="https://github.com/user-attachments/assets/143f029e-a4e4-46f4-9282-b49e9c2e8ce9" /> | 🎯 시험 예정 | **2026-09-05** | [GitHub 학습자료](https://github.com/geonwoo8873/tour-learn-collection) |
-| <img width="80" height="80" alt="GitHub Foundations" src="https://github.com/user-attachments/assets/1904f4b8-27cd-4de0-a6e1-484d92e44698" /> | 📖 학습 중 | - | [GitHub 학습자료](https://github.com/geonwoo8873/tour-learn-collection) |
+| <img width="80" height="80" alt="GitHub Foundations" src="https://github.com/user-attachments/assets/1904f4b8-27cd-4de0-a6e1-484d92e44698" /> | ✅ 취득 | - | [GitHub 학습자료](https://github.com/geonwoo8873/tour-learn-collection) |
 
 💡 **Note:** 자격 증명 학습 내용은 [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)에서 확인할 수 있습니다.
 
@@ -57,12 +57,12 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 | Rust Discord Bot | Exit | Personal Project | ![My Skills](https://skillicons.dev/icons?i=rust,bash,docker,github) | - | [Rust-DiscordBot](https://github.com/geonwoo8873/Rust-DiscordBot) |
 | Smart Waste Container | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=c) | Dev[`Leader`] | [Smart_Waste_Container](https://github.com/geonwoo8873/Smart_Waste_Container) |
 
-> [!WARNING]
+> [!IMPORTANT]
 > **개인 개발 프로젝트들은 현재 새로운 실험 및 적용 단계들로 향후 개발되는 기능들과 환경 구성들이 변경될 수 있습니다.**  
 > **Individual development projects are currently in new experimental and application stages, and the functions and environment configurations developed in the future may change.**
 
 <div>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gunwoo8873&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=geonwoo8873&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/geonwoo8873"
   width="100%"
