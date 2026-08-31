@@ -28,7 +28,7 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1904f4b8-27cd-4de0-a6e1-484d92e44698" /> | 30/05/2026 | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/143f029e-a4e4-46f4-9282-b49e9c2e8ce9" /> | Learning |
 | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3e432607-df44-4cf4-9260-88d55dfc8c05" /> | - |
 
-> [!IMPORTANT]
+> [!NOTE]
 > **자격 증명에 대한 내용들은 [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)에 업로드 되어 있습니다.**  
 > **Currently preparing GitHub Foundation credentials, and information about the credentials is uploaded at [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection).**
 
@@ -58,7 +58,7 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 | Rust Discord Bot | Exit | Personal Project | ![My Skills](https://skillicons.dev/icons?i=rust,bash,docker,github) | - | [Rust-DiscordBot](https://github.com/geonwoo8873/Rust-DiscordBot) |
 | Smart Waste Container | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=c) | Dev[`Leader`] | [Smart_Waste_Container](https://github.com/geonwoo8873/Smart_Waste_Container) |
 
-> [!WARNING]
+> [!IMPORTANT]
 > **개인 개발 프로젝트들은 현재 새로운 실험 및 적용 단계들로 향후 개발되는 기능들과 환경 구성들이 변경될 수 있습니다.**  
 > **Individual development projects are currently in new experimental and application stages, and the functions and environment configurations developed in the future may change.**
 
