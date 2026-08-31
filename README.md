@@ -29,8 +29,8 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3e432607-df44-4cf4-9260-88d55dfc8c05" /> | - |
 
 > [!IMPORTANT]
-> **자격 증명에 대한 내용들은 [TourCredentials](https://github.com/geonwoo8873/TourCredentials)에 업로드 되어 있습니다.**  
-> **Currently preparing GitHub Foundation credentials, and information about the credentials is uploaded at [TourCredentials](https://github.com/geonwoo8873/TourCredentials).**
+> **자격 증명에 대한 내용들은 [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)에 업로드 되어 있습니다.**  
+> **Currently preparing GitHub Foundation credentials, and information about the credentials is uploaded at [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection).**
 
 ### 💻​ OS
 
@@ -53,7 +53,7 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 
 | NAME              | STATUS  |     TYPE     | SKILL STACKS                                                           | POSITION | REPOSITORY                                                        |
 | ----------------- | :-----: | :----------: | ------------------------------------------------------------------ | :------: | ----------------------------------------------------------------- |
-| TourCredentials         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=github) |    -     | [TourCredentials](https://github.com/geonwoo8873/TourCredentials)             |
+| tour-learn-collection         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=github,go,net,mysql) |    -     | [TourCredentials](https://github.com/geonwoo8873/tour-learn-collection)             |
 | Bank System Cloud | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,k8s,github) | DevOps[`CI/CD`] | [likelion-bootcamp-project](https://github.com/likelion-bootcamp-project) |
 | Rust Discord Bot | Exit | Personal Project | ![My Skills](https://skillicons.dev/icons?i=rust,bash,docker,github) | - | [Rust-DiscordBot](https://github.com/geonwoo8873/Rust-DiscordBot) |
 | Smart Waste Container | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=c) | Dev[`Leader`] | [Smart_Waste_Container](https://github.com/geonwoo8873/Smart_Waste_Container) |
