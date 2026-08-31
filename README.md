@@ -29,7 +29,8 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 | <img width="80" height="80" alt="GitHub Admin" src="https://github.com/user-attachments/assets/143f029e-a4e4-46f4-9282-b49e9c2e8ce9" /> | 🎯 시험 예정 | 05/09/2026 | [GitHub 학습자료](https://github.com/geonwoo8873/tour-learn-collection) |
 | <img width="80" height="80" alt="GitHub Foundations" src="https://github.com/user-attachments/assets/1904f4b8-27cd-4de0-a6e1-484d92e44698" /> | ✅ 취득 | 30/05/2026 | [GitHub 학습자료](https://github.com/geonwoo8873/tour-learn-collection) |
 
-💡 **Note:** 자격 증명 학습 내용은 [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)에서 확인할 수 있습니다.
+> [!NOTE]
+> **Note:** 자격 증명 학습 내용은 [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)에서 확인할 수 있습니다.
 
 ### 💻​ OS
 
