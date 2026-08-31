@@ -63,7 +63,7 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 > **Individual development projects are currently in new experimental and application stages, and the functions and environment configurations developed in the future may change.**
 
 <div>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gunwoo8873&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=geonwoo8873&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/geonwoo8873"
   width="100%"
