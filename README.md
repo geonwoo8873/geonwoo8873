@@ -23,14 +23,13 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 
 ## CREDENTIALS
 
-| **Credential Name** | **Get Date** | **Credential Name** | **Get Date** |
-| -- | -- | -- | -- |
-| <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1904f4b8-27cd-4de0-a6e1-484d92e44698" /> | 30/05/2026 | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/143f029e-a4e4-46f4-9282-b49e9c2e8ce9" /> | Learning |
-| <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3e432607-df44-4cf4-9260-88d55dfc8c05" /> | - |
+| 자격증 | 상태 | 취득/시험일 | 상세 |
+|--------|------|-----------|------|
+| <img width="80" height="80" alt="AWS Solutions Architect Associate" src="https://github.com/user-attachments/assets/3e432607-df44-4cf4-9260-88d55dfc8c05" /> | 📚 준비 중 | - | [AWS 학습자료](https://github.com/geonwoo8873/tour-learn-collection) |
+| <img width="80" height="80" alt="GitHub Admin" src="https://github.com/user-attachments/assets/143f029e-a4e4-46f4-9282-b49e9c2e8ce9" /> | 🎯 시험 예정 | **2026-09-05** | [GitHub 학습자료](https://github.com/geonwoo8873/tour-learn-collection) |
+| <img width="80" height="80" alt="GitHub Foundations" src="https://github.com/user-attachments/assets/1904f4b8-27cd-4de0-a6e1-484d92e44698" /> | ✅ 취득 | - | [GitHub 학습자료](https://github.com/geonwoo8873/tour-learn-collection) |
 
-> [!NOTE]
-> **자격 증명에 대한 내용들은 [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)에 업로드 되어 있습니다.**  
-> **Currently preparing GitHub Foundation credentials, and information about the credentials is uploaded at [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection).**
+💡 **Note:** 자격 증명 학습 내용은 [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)에서 확인할 수 있습니다.
 
 ### 💻​ OS
 
