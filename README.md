@@ -62,6 +62,8 @@ I am interested in building CI/CD pipelines using GitHub Actions and mainly use 
 > **개인 개발 프로젝트들은 현재 새로운 실험 및 적용 단계들로 향후 개발되는 기능들과 환경 구성들이 변경될 수 있습니다.**  
 > **Individual development projects are currently in new experimental and application stages, and the functions and environment configurations developed in the future may change.**
 
+## ACTIVITY
+
 <div>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=geonwoo8873&utm_content=farm">
 <img
