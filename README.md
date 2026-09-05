@@ -13,11 +13,18 @@ I have currently obtained GitHub Foundation and Admin credentials and am continu
 
 ## CAREER
 
-* **Coupang Fulfillment Services** (`2025-04-22 ~ 2026-04-21`)
-   * In Bound / Quality Control
+#### **Coupang Fulfillment Services** (`2025-04-22 ~ 2026-04-21`)
+* **In Bound / Quality Control**
+  * Performed quality control and inspection for product shipments requested by clients
+  * Conducted preliminary safety and quality control training for 34 temporary workers
+  * Strengthened systematic processes with the goal of reducing the monthly average number of claims by 5 through work process improvements
+  * Contributed to reducing internal accident rates and creating a safe working environment by applying research on hazardous area improvement plans
  
-*  **Shining Lion** (`2025-02-01 ~ 2025-02-28`)
-   * Intern / DevOps[`CI/CD`]
+#### **Shining Lion** (`2025-02-01 ~ 2025-02-28`)
+* **Intern / DevOps[`CI/CD`]**
+  * Established deployment automation between the repository and AWS S3 by building a GitHub Actions CI/CD Pipeline
+  * Implemented a one-way enterprise data output chatbot based on the OpenAI API on AWS Bedrock
+  * Developed a customized command to check AWS EC2 utilization by connecting the community program (Discord) REST API with the AWS SDK
 
 ## CREDENTIALS
 
