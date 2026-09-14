@@ -5,7 +5,7 @@
 > **안녕하세요! 저는 DevOps에 관심이 많은 개발자 geonwoo8873입니다.**  
 > **Hi! I'm geonwoo8873, a developer with a strong interest in DevOps.**
 
-현재 GitHub Foundation 및 Admin 자격 증명을 취득 완료하여 AWS 및 Azure의 SAA/AZ-400 자격증 취득을 목표로 클라우드 인프라 기술을 지속적으로 학습하고 있으며, GitHub Actions를 활용한 CI/CD 파이프라인 구축에 관심이 있으며, Go와 C#을 주로 사용합니다.
+현재 GitHub Foundation 및 Administration 자격 증명을 취득 완료하여 AWS 및 Azure의 SAA/AZ-400 자격증 취득을 목표로 클라우드 인프라 기술을 지속적으로 학습하고 있으며, GitHub Actions를 활용한 CI/CD 파이프라인 구축에 관심이 있으며, Go와 C#을 주로 사용합니다.
 
 I have currently obtained GitHub Foundation and Admin credentials and am continuously learning cloud infrastructure technologies with the goal of obtaining AWS and Azure SAA/AZ-400 certifications. I am interested in building CI/CD pipelines using GitHub Actions and primarily use Go and C#.
 
