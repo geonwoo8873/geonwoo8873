@@ -70,14 +70,12 @@ I have currently obtained GitHub Foundation and Administration credentials and a
 
 ## ACTIVITY
 
-<div>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=geonwoo8873&utm_content=farm">
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=geonwoo8873&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/geonwoo8873"
-  width="100%"
-  height="30%"
+  width="600"
+  height="300"
 />
 </a>
-</div>
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunwoo8873&theme=tokyo-night)](https://github.com/gunwoo8873/github-readme-activity-graph)-->
