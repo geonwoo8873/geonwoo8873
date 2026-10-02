@@ -61,8 +61,8 @@ I have currently obtained GitHub Foundation and Administration credentials and a
 | Tour Learn Collection         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=go,net,mysql,github) |    -     | [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)             |
 | Not Edit Project Name | Pending | Team Project | ![My Skills](https://skillicons.dev/icons?i=python,go,ubuntu,docker,k8s,mysql,github) | - | |
 | Bank System Cloud | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,k8s,github) | DevOps[`CI/CD`] | [likelion-bootcamp-project](https://github.com/geonwoo8873/likelion-bootcamp-project) |
-<!-- | Rust Discord Bot | Exit | Personal Project | ![My Skills](https://skillicons.dev/icons?i=rust,bash,docker,github) | - | [Rust-DiscordBot](https://github.com/geonwoo8873/Rust-DiscordBot) | -->
 | Smart Waste Container | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=c) | Dev[`PL`] | [smart-waste-container](https://github.com/geonwoo8873/smart-waste-container) |
+<!-- | Rust Discord Bot | Exit | Personal Project | ![My Skills](https://skillicons.dev/icons?i=rust,bash,docker,github) | - | [Rust-DiscordBot](https://github.com/geonwoo8873/Rust-DiscordBot) | -->
 
 > [!IMPORTANT]
 > * **개인 개발 프로젝트들은 현재 새로운 실험 및 적용 단계들로 향후 개발되는 기능들과 환경 구성들이 변경될 수 있습니다.**  
