@@ -12,7 +12,12 @@ I have currently obtained GitHub Foundation and Administration credentials and a
 ## CAREER
 
 #### **Global Academy** (`09/29/2026 ~ 11/30/2026`)
-* **Student / Intern Education**
+* **Student & Intern Education**
+  * Repo URL
+    * [Global Academy Education](https://github.com/geonwoo8873/global-academy-education)
+    * [Global Academy Synthesis Project](https://github.com/geonwoo8873/global-academy-project)
+    * [Org Global Academy Public Project](https://github.com/global-academy-project)
+
 
 #### **Coupang Fulfillment Services** (`04/22/2025 ~ 04/21/2026`)
 * **In Bound / Quality Control**
