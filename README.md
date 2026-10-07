@@ -12,6 +12,7 @@ I have currently obtained GitHub Foundation and Administration credentials and a
 ## CAREER
 
 #### **Global Academy** (`09/29/2026 ~ 11/30/2026`)
+* **Student / Intern Education**
 
 #### **Coupang Fulfillment Services** (`04/22/2025 ~ 04/21/2026`)
 * **In Bound / Quality Control**
