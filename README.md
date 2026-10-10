@@ -15,7 +15,7 @@ I have currently obtained GitHub Foundation and Administration credentials and a
 * **Student & Intern Education**
   * Repo URL
     * [Global Academy Education](https://github.com/geonwoo8873/global-academy-education)
-    * [Global Academy Synthesis Project](https://github.com/geonwoo8873/global-academy-project)
+    * [Global Academy Synthesis Project](https://github.com/geonwoo8873/global-academy-project) **[Currently: Private]**
     * [Org Global Academy Public Project](https://github.com/global-academy-project)
 
 
