@@ -69,7 +69,8 @@ I have currently obtained GitHub Foundation and Administration credentials and a
 | Tour Learn Collection         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=go,bash,powershell,terraform,mysql,github,aws) |    -     | [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)             |
 | Custom Repo Template | Running | Personal Project | ![My Skills](https://skillicons.dev/icons?i=bash,github,githubactions) | - | [custom-repo-template](https://github.com/geonwoo8873/custom-repo-template) |
 | Discord Bot | Migration | Personal Project | ![My Skills](https://skillicons.dev/icons?i=rust,go,bash,docker,github) | - | - |
-| Not Edit Project Name | Pending | Team Project | ![My Skills](https://skillicons.dev/icons?i=python,go,ubuntu,docker,k8s,mysql,github) | - | - |
+| AI OCR Model text extract | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=python,spring,docker,mysql,github) | PM/Infra | - |
+| No Edit Project Name | Running | Team Project | ![My Skills](https://skillicons.dev/icons?i=python,spring,docker,mysql,github) | PM/Infra | [mini-project-demo](https://github.com/global-academy-project/mini-project-demo) |
 | Bank System Cloud | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,k8s,github) | DevOps[`CI/CD`] | [likelion-bootcamp-project](https://github.com/geonwoo8873/likelion-bootcamp-project) |
 | Smart Waste Container | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=c,arduino,vscode) | Dev[`PL`] | [smart-waste-container](https://github.com/geonwoo8873/smart-waste-container) |
 
