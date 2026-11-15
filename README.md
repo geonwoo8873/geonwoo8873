@@ -17,6 +17,13 @@ I have currently obtained GitHub Foundation and Administration credentials and a
     * [Global Academy Education](https://github.com/geonwoo8873/global-academy-education)
     * [Global Academy Synthesis Project](https://github.com/geonwoo8873/global-academy-project) **[Currently: Private]**
     * [Org Global Academy Public Project](https://github.com/global-academy-project)
+  * **Safety Management System AI Model Application** (`10/19/2026 ~ 11/30/2026`): 4-member team project
+    * Developed React document lookup and search components and integrated APIs
+    * Designed and operated isolated MySQL, Qdrant, and Flyway containers for a RAG-based AI service
+    * Built a document embedding and vector data ingestion pipeline for RAG search
+    * Designed Docker Compose service dependencies and initialization workflows, separating Flyway migration and Qdrant initialization from the application services
+    * Improved container stability and security with health checks and a non-root user
+    * Optimized builds with a shared ML dependency layer, Python Wheelhouse, BuildKit Cache, and Docker multi-stage builds, reducing image size from 8.3 GB to 7.5 GB (approximately 9.6%)
 
 
 #### **Coupang Fulfillment Services** (`04/22/2025 ~ 04/21/2026`)
@@ -68,7 +75,7 @@ I have currently obtained GitHub Foundation and Administration credentials and a
 | ----------------- | :-----: | :----------: | ------------------------------------------------------------------ | :------: | ----------------------------------------------------------------- |
 | Tour Learn Collection         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=go,bash,powershell,terraform,mysql,github,aws) |    -     | [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)             |
 | Custom Repo Template | Running | Personal Project | ![My Skills](https://skillicons.dev/icons?i=bash,github,githubactions) | - | [custom-repo-template](https://github.com/geonwoo8873/custom-repo-template) |
-| AI OCR Model text extract | Running | Team Project | ![My Skills](https://skillicons.dev/icons?i=python,spring,bash,docker,githubactions,mysql,github) | PM/Infra | [mini-project-demo](https://github.com/global-academy-project/mini-project-demo) / [main-project-demo](https://github.com/global-academy-project/main-project-demo) |
+| Safety Management System AI Model Application | Running | Team Project | ![My Skills](https://skillicons.dev/icons?i=python,spring,bash,docker,githubactions,mysql,github) | PM/Infra | [mini-project-demo](https://github.com/global-academy-project/mini-project-demo) / [main-project-demo](https://github.com/global-academy-project/main-project-demo) |
 | Bank System Cloud | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,k8s,github) | DevOps[`CI/CD`] | [likelion-bootcamp-project](https://github.com/geonwoo8873/likelion-bootcamp-project) |
 | Smart Waste Container | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=c,arduino,vscode) | Dev[`PL`] | [smart-waste-container](https://github.com/geonwoo8873/smart-waste-container) |
 
