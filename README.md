@@ -17,14 +17,26 @@ Built and operated GitHub Actions automation used across multiple repositories w
     * [Global Academy Education](https://github.com/geonwoo8873/global-academy-education)
     * [Global Academy Synthesis Project](https://github.com/geonwoo8873/global-academy-project) **[Currently: Private]**
     * [Org Global Academy Public Project](https://github.com/global-academy-project)
-  * **Safety Management System AI Model Application** (`10/19/2026 ~ 11/30/2026`): 4-member team project
-    * Developed React document lookup and search components and integrated APIs
-    * Designed and operated isolated MySQL, Qdrant, and Flyway containers for a RAG-based AI service
-    * Built a document embedding and vector data ingestion pipeline for RAG search
-    * Designed Docker Compose service dependencies and initialization workflows, separating Flyway migration and Qdrant initialization from the application services
-    * Improved container stability and security with health checks and a non-root user
-    * Optimized builds with a shared ML dependency layer, Python Wheelhouse, BuildKit Cache, and Docker multi-stage builds, reducing image size from 8.3 GB to 7.5 GB (approximately 9.6%)
+  * **Safety Management System AI Platform** (`2026.10 ~ 2026.11`)
+    * 4-member team project
+    * **Application & AI**
+      - Developed a React-based document search interface and integrated Spring Boot / FastAPI APIs
+      - Built a Hybrid (Sparse/Dense) RAG pipeline using BGE-M3 embeddings and Qdrant Vector Database
+      - Designed document ingestion and vector indexing workflows for MSDS, incident reports, and safety guidelines
 
+    * **Infrastructure & Operations**
+      - Built and operated a containerized AI platform with React, Spring Boot, FastAPI, MySQL, Qdrant, and Flyway
+      - Designed service dependency orchestration and initialization workflows using Docker Compose
+      - Separated database migration (Flyway) and vector database initialization from application services to improve deployment consistency
+      - Implemented health checks and non-root container execution policies to improve service stability and security
+      - Migrated Docker Compose workloads to Kubernetes using StatefulSet, PVC, ConfigMap, Secret, and Job resources
+      - Designed automated database migration workflows using Flyway Job and Migration Images
+      - Established CI/CD and security validation pipelines using GitHub Actions and Trivy
+      - Built observability dashboards using Prometheus and Grafana for application and infrastructure monitoring
+
+    * **Optimization**
+      - Implemented BuildKit Cache, Python Wheelhouse, and Docker Multi-stage Build strategies
+      - Reduced container image size from 8.3 GB to 7.5 GB (approximately 9.6% reduction)
 
 #### **Coupang Fulfillment Services** (`04/22/2025 ~ 04/21/2026`)
 * **In Bound / Quality Control**
