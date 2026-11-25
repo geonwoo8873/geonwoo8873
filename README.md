@@ -15,7 +15,7 @@ Built and operated GitHub Actions automation used across multiple repositories w
 * **Student & Intern Education**
   * Repo URL
     * [Org Global Academy Public Project](https://github.com/global-academy-project/main-project-demo)
-  * **Safety Management System AI Platform** (`2026.10 ~ 2026.11`)
+  * **Safety Management System AI Platform** (`10/26/2026 ~ 11/27/2026`)
     * 4-member team project
     * **Application & AI**
       - Developed a React-based document search interface and integrated Spring Boot / FastAPI APIs
