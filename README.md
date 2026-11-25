@@ -14,7 +14,7 @@ Built and operated GitHub Actions automation used across multiple repositories w
 #### **Global Academy** (`09/29/2026 ~ 11/30/2026`)
 * **Student & Intern Education**
   * Repo URL
-    * [Org Global Academy Public Project](https://github.com/global-academy-project)
+    * [Org Global Academy Public Project](https://github.com/global-academy-project/main-project-demo)
   * **Safety Management System AI Platform** (`2026.10 ~ 2026.11`)
     * 4-member team project
     * **Application & AI**
